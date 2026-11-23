@@ -1,2 +1,2 @@
 # genie
-Me and Caro are best team
+Repo for Haskell course assignments
